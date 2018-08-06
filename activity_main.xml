@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/viwepagerid"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.androidlime.scroll_app.MainActivity">
+
+
+
+
+
+    <android.support.v4.view.PagerTabStrip
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:paddingBottom="5dp"
+        android:id="@+id/title"
+        android:background="#FFC386F4"
+        >
+
+
+    </android.support.v4.view.PagerTabStrip>
+
+
+
+</android.support.v4.view.ViewPager>
